@@ -1,6 +1,14 @@
 # Website-Sederhana-TailwindCss-Laravel
 
 Aplikasi Company Profile Berbasis Website dengan tampilan sederhana menggunakan TailwindCss dan Laravel Untuk Backend.
+Database name : company-profile
+
+Username = admin@gmail.com
+Password = 12345678
+
+Langkah untuk menjalankan
+1. Buka terminal di visualstudiocode lalu ketik 'npm run dev' //untuk menjalankan tailwindcss
+2. tambah terminal di visualstudiocode lalu ketik 'php artisan serve' //untuk menjalankan laravel
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
